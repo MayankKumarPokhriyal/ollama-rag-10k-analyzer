@@ -1,1 +1,0 @@
-# ollama-rag-10k-analyzer

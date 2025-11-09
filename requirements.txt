@@ -1,0 +1,9 @@
+faiss-cpu
+sentence-transformers
+pypdf
+langchain
+langchain-ollama
+langchain-text-splitters
+ollama
+jupyter
+ipywidgets
